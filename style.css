@@ -1,0 +1,396 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.maindiv
+{
+    height: 600px;
+    width: 1372px;
+}
+
+.maindiv .subdiv1
+{
+    height: 150px;
+    width: 100%;
+    float: left;
+}
+
+.maindiv .subdiv2
+{
+    height: 150px;
+    width: 100%;
+    float: left;
+}
+
+.maindiv .subdiv3
+{
+    height: 150px;
+    width: 100%;
+    float: left;
+}
+
+.maindiv .subdiv4
+{
+    height: 150px;
+    width: 100%;
+    float: left;
+}
+
+.maindiv .subdiv1 .subdiv11
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv1 .subdiv12
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv1 .subdiv13
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv1 .subdiv14
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv1 .subdiv15
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv1 .subdiv16
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv1 .subdiv17
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+
+.maindiv .subdiv2 .subdiv21
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv2 .subdiv22
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv2 .subdiv23
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv2 .subdiv24
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv2 .subdiv25
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv2 .subdiv26
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv2 .subdiv27
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv3 .subdiv31
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv3 .subdiv32
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv3 .subdiv33
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv3 .subdiv34
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv3 .subdiv35
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv3 .subdiv36
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv3 .subdiv37
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+
+.maindiv .subdiv4 .subdiv41
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv4 .subdiv42
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv4 .subdiv43
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv4 .subdiv44
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv4 .subdiv45
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv4 .subdiv46
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+.maindiv .subdiv4 .subdiv47
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 196px;
+    float: left;
+    padding: 10px 0 10px 0;
+}
+
+
+button
+{
+    height: 40px;
+    width: 70px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: tomato;
+    transition: .6s;
+    cursor: pointer;
+    
+}
+
+button:hover
+{
+    background-color: aqua;
+}
